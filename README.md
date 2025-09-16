@@ -72,7 +72,7 @@ Se otorgarán premios por **más de 100.000.000 COP**, incluyendo:
 FOREST · Ubuntu Colombia · CINCO · Backbone · PERTT · JointDeveloper · Grupo de Investigación Sirius
 
 **Sponsors:**  
-Universidad Tecnológica de Pereira · Avalanche · DailyBot · Ventura Capital
+Universidad Tecnológica de Pereira · Avalanche · DailyBot · el HUB fundación
 
 ---
 
