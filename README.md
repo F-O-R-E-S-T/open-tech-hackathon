@@ -1,6 +1,6 @@
 # Open Tech Hackathon 2025
 
-Evento organizado por FOREST, FLISoL, Ubuntu Colombia, CINCO, Backbone, QA Conf, PERTT, JointDeveloper y el Grupo de Investigación Sirius, con el patrocinio de la Universidad Tecnológica de Pereira, Avalanche, DailyBot y Ventura Capital.
+Evento organizado por FOREST, FLISoL, Ubuntu Colombia, CINCO, Backbone, QA Conf, PERTT, JointDeveloper y el Grupo de Investigación Sirius, con el patrocinio de la Universidad Tecnológica de Pereira, Avalanche, DailyBot y el HUB fundación.
 
 ---
 
@@ -12,6 +12,7 @@ Open Tech Hackathon tiene como objetivo principal impulsar la creación de nueva
 
 ## 🗓 Fechas y lugar
 
+- **Sesión virtual**: Del 6 de octubre al 10 de octubre de 2025
 - **Pitch Day**: 11 de octubre de 2025  
 - **Horario**: 8:00 a.m. a 5:00 p.m.  
 - **Lugar**: Auditorio de Ciencias de la Salud, Universidad Tecnológica de Pereira  
@@ -69,7 +70,7 @@ Se otorgarán premios por **más de 100.000.000 COP**, incluyendo:
 ## 🤝 Sponsors y Organizadores
 
 **Organizan:**  
-FOREST · Ubuntu Colombia · CINCO · Backbone · PERTT · JointDeveloper · Grupo de Investigación Sirius
+FOREST · FLISoL · Ubuntu Colombia · CINCO · Backbone · PERTT · JointDeveloper · Grupo de Investigación Sirius
 
 **Sponsors:**  
 Universidad Tecnológica de Pereira · Avalanche · DailyBot · el HUB fundación
