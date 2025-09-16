@@ -1,6 +1,6 @@
 # Open Tech Hackathon 2025
 
-Evento organizado por FLISoL, Ubuntu Colombia, Cinco, Backbone, QA Conf, PERTT, JointDeveloper y el Grupo de Investigación Sirius, con el patrocinio de la Universidad Tecnológica de Pereira, Avalanche, DailyBot y Ventura Capital.
+Evento organizado por FOREST, FLISoL, Ubuntu Colombia, CINCO, Backbone, QA Conf, PERTT, JointDeveloper y el Grupo de Investigación Sirius, con el patrocinio de la Universidad Tecnológica de Pereira, Avalanche, DailyBot y Ventura Capital.
 
 ---
 
