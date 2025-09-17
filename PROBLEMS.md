@@ -1,6 +1,6 @@
 # Retos y Propuestas – Open Tech Hackathon 2025
 
-La **Open Tech Hackathon 2025** invita a los equipos a explorar y desarrollar soluciones innovadoras que integren **Modelos de Lenguaje Grandes (LLMs)**, **Modelos Críticos de Predicción (MCPs)** y la infraestructura descentralizada de la **Blockchain de Avalanche**.  
+La **Open Tech Hackathon 2025** invita a los equipos a explorar y desarrollar soluciones innovadoras que integren **Modelos de Lenguaje Grandes (LLMs)**, **Modelos Críticos de Predicción (MCPs)** o la infraestructura descentralizada de la **Blockchain de Avalanche**.  
 
 El objetivo general es **crear productos de valor con un impacto tangible en la cultura, sociedad y economía de Pereira y el Eje Cafetero**.  
 
