@@ -16,6 +16,17 @@ El objetivo general es **crear productos de valor con un impacto tangible en la 
 6. [Turismo Sostenible y Experiencias Culturales Auténticas en Pereira con IA y Blockchain](#turismo-sostenible-y-experiencias-culturales-auténticas-en-pereira-con-ia-y-blockchain)  
 7. [Mercado de Modelos Generativos Federados en Avalanche](#mercado-de-modelos-generativos-federados-en-avalanche)  
 
+## 🗂 Propuestas de AI native
+
+1. [AI para la Educación](#ai-para-la-educación)  
+2. [AI para Gobiernos y Ciudades](#ai-para-gobiernos-y-ciudades)  
+3. [AI en la Empresa (B2B)](#ai-en-la-empresa-(B2B))
+4. [AI para la Vida Diaria (B2C)](#ai-para-la-vida-diaria-(B2C))
+5. [AI con Voz y Multimodalidad](#ai-con-voz-y-multimodalidad)
+6. [AI para Developers y Creadores](#ai-para-developers-y-creadores)
+7. [AI para la Productividad y el Futuro del Trabajo](#ai-para-la-productividad-y-el-futuro-del-trabajo)
+
+
 ---
 
 ## 1. Oráculos de Datos LLM-Impulsados para DeFi y GameFi en Avalanche
@@ -101,17 +112,6 @@ El objetivo general es **crear productos de valor con un impacto tangible en la 
 - Gobernanza DAO para priorizar entrenamientos y mejoras de modelos.  
 
 ---
-
-
-## 🗂 Propuestas de AI native
-
-1. [AI para la Educación](#ai-para-la-educación)  
-2. [AI para Gobiernos y Ciudades](#ai-para-gobiernos-y-ciudades)  
-3. [AI en la Empresa (B2B)](#ai-en-la-empresa-(B2B))
-4. [AI para la Vida Diaria (B2C)](#ai-para-la-vida-diaria-(B2C))
-5. [AI con Voz y Multimodalidad](#ai-con-voz-y-multimodalidad)
-6. [AI para Developers y Creadores](#ai-para-developers-y-creadores)
-7. [AI para la Productividad y el Futuro del Trabajo](#ai-para-la-productividad-y-el-futuro-del-trabajo)
 
 ## 1. AI para la Educación
 Descripción: Reinventa cómo aprendemos y enseñamos. Desde la corrección automática y justa de exámenes hasta tutores virtuales que acompañan a cada estudiante, crea soluciones que hagan la educación más personalizada, accesible y eficiente con IA.
