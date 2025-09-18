@@ -1,12 +1,12 @@
 # Retos y Propuestas – Open Tech Hackathon 2025
 
-La **Open Tech Hackathon 2025** invita a los equipos a explorar y desarrollar soluciones innovadoras que integren **Modelos de Lenguaje Grandes (LLMs)**, **Modelos Críticos de Predicción (MCPs)** o la infraestructura descentralizada de la **Blockchain de Avalanche**.  
+La **Open Tech Hackathon 2025** invita a los equipos a explorar y desarrollar soluciones innovadoras que integren **Modelos de Lenguaje Grandes (LLMs)**, **Model Context Protocols (MCPs)** y/o la infraestructura descentralizada de la **Blockchain de Avalanche**. Con este proposito hemos diseñado una serie de propuestas que les permitan optar a los diversos frentes que se tendrán en cuenta al puntual los proyectos, además de un set de propuestas enfocadas mayoriariamente a 
 
-El objetivo general es **crear productos de valor con un impacto tangible en la cultura, sociedad y economía de Pereira y el Eje Cafetero**.  
+El objetivo general es **crear productos de valor con un impacto tangible en la cultura, sociedad y economía del Eje Cafetero**.  
 
 ---
 
-## 🗂 Categorías de propuestas
+## 🗂 Propuestas de Blockchain + AI
 
 1. [Oráculos de Datos LLM-Impulsados para DeFi y GameFi en Avalanche](#oráculos-de-datos-llm-impulsados-para-defi-y-gamefi-en-avalanche)  
 2. [Asistentes IA Descentralizados y Agentes Autónomos en Avalanche](#asistentes-ia-descentralizados-y-agentes-autónomos-en-avalanche)  
@@ -15,9 +15,6 @@ El objetivo general es **crear productos de valor con un impacto tangible en la 
 5. [Plataforma de Preservación y Difusión del Patrimonio Cafetero con IA y Blockchain](#plataforma-de-preservación-y-difusión-del-patrimonio-cafetero-con-ia-y-blockchain)  
 6. [Turismo Sostenible y Experiencias Culturales Auténticas en Pereira con IA y Blockchain](#turismo-sostenible-y-experiencias-culturales-auténticas-en-pereira-con-ia-y-blockchain)  
 7. [Mercado de Modelos Generativos Federados en Avalanche](#mercado-de-modelos-generativos-federados-en-avalanche)  
-8. [Identidad Digital Auto-Soberana con IA en Avalanche](#identidad-digital-auto-soberana-con-ia-en-avalanche)  
-9. [Auditoría y Compliance Inteligente On-Chain con IA](#auditoría-y-compliance-inteligente-on-chain-con-ia)  
-10. [Gemelos Digitales Descentralizados Impulsados por IA en Avalanche](#gemelos-digitales-descentralizados-impulsados-por-ia-en-avalanche)  
 
 ---
 
@@ -105,38 +102,40 @@ El objetivo general es **crear productos de valor con un impacto tangible en la 
 
 ---
 
-## 8. Identidad Digital Auto-Soberana con IA en Avalanche
-**Concepto:** Usar IA para verificar, enriquecer y proteger **identidades descentralizadas (DIDs)** aseguradas en Avalanche.  
 
-**Propuestas:**
-- LLMs que analicen documentación y detecten inconsistencias en tiempo real para procesos de KYC/AML.  
-- IA que genere perfiles de riesgo o confianza, registrados en contratos inteligentes.  
-- Integración con wallets para permitir identidad portable y certificaciones verificables.  
+## 🗂 Propuestas de AI native
 
----
+1. [AI para la Educación](#ai-para-la-educación)  
+2. [AI para Gobiernos y Ciudades](#ai-para-gobiernos-y-ciudades)  
+3. [AI en la Empresa (B2B)](#ai-en-la-empresa-(B2B))
+4. [AI para la Vida Diaria (B2C)](#ai-para-la-vida-diaria-(B2C))
+5. [AI con Voz y Multimodalidad](#ai-con-voz-y-multimodalidad)
+6. [AI para Developers y Creadores](#ai-para-developers-y-creadores)
+7. [AI para la Productividad y el Futuro del Trabajo](#ai-para-la-productividad-y-el-futuro-del-trabajo)
 
-## 9. Auditoría y Compliance Inteligente On-Chain con IA
-**Concepto:** Combinar LLMs con la infraestructura de Avalanche para crear auditores autónomos que verifiquen contratos inteligentes, flujos financieros y transacciones en tiempo real.  
+## 1. AI para la Educación
+Descripción: Reinventa cómo aprendemos y enseñamos. Desde la corrección automática y justa de exámenes hasta tutores virtuales que acompañan a cada estudiante, crea soluciones que hagan la educación más personalizada, accesible y eficiente con IA.
 
-**Propuestas:**
-- IA que lea y audite contratos inteligentes, detectando vulnerabilidades o cláusulas sospechosas.  
-- MCPs que predigan riesgos de fraude o incumplimiento normativo antes de ejecutar transacciones.  
-- Registros inmutables en Avalanche que permitan a terceros validar auditorías de forma abierta.  
+## 2. AI para Gobiernos y Ciudades
+Descripción: Diseña herramientas que acerquen a los ciudadanos a sus gobiernos. Imagina chatbots que resuelvan trámites, sistemas que respondan consultas en segundos o plataformas que automaticen procesos públicos de atención al ciudadano.
 
----
+## 3. AI en la Empresa (B2B)
+Descripción: Transforma procesos internos que hoy son lentos y manuales. Desde atención al cliente automatizada hasta análisis financiero inteligente o soporte de RRHH, busca crear el “copiloto” que toda empresa querría tener.
 
-## 10. Gemelos Digitales Descentralizados Impulsados por IA en Avalanche
-**Concepto:** Representar personas, empresas o procesos como **gemelos digitales inteligentes** que funcionan como agentes autónomos en Avalanche.  
+## 4. AI para la Vida Diaria (B2C)
+Descripción: Haz más fácil la vida de las personas con IA. Puede ser un asistente que organice tareas del hogar, una app de salud preventiva, un gestor de finanzas personales o cualquier solución que lleve la eficiencia de la IA al día a día.
 
-**Propuestas:**
-- Gemelos que aprendan dinámicamente de datos del mundo real con IA y almacenen su historial en Avalanche.  
-- Gemelos empresariales que negocien automáticamente en mercados tokenizados (ej. energía, transporte, café).  
-- Ecosistemas de gemelos interconectados gobernados por DAOs y contratos inteligentes.  
+## 5. AI con Voz y Multimodalidad
+Descripción: Explora interfaces más humanas. Crea sistemas que entiendan voz, imagen o video y automaticen procesos. Piensa en asistentes de voz que ejecutan tareas reales en empresas o soluciones que combinan texto, audio e imagen para experiencias únicas.
 
----
+## 6. AI para Developers y Creadores
+Descripción: Construye herramientas que potencien a quienes construyen. Desde copilotos de programación hasta plataformas de testing automatizado, librerías o SDKs, el reto es ayudar a developers a ser 10x más productivos.
+
+## 7. AI para la Productividad y el Futuro del Trabajo
+Descripción: Diseña el próximo salto en cómo trabajamos. Bots que eliminan reuniones inútiles, agentes que detectan bloqueos en equipos, gestores de tareas inteligentes o dashboards que se autogeneran con IA: cualquier cosa que nos acerque al “trabajo sin fricción”.
 
 ## 🌟 Notas finales
-Además de estas 10 propuestas, los equipos pueden traer **otras ideas propias o tomar las propuestas de base** siempre que integren/conserven de manera clara:  
+Además de estas 14 propuestas, los equipos pueden traer **otras ideas propias o tomar las propuestas de base** siempre que integren/conserven de manera clara:  
 - **IA nativa (LLMs, MCPs, agentes autónomos, modelos generativos, etc.)**  
 - **Blockchain en Avalanche** como capa de confianza, escalabilidad y descentralización.  
 
